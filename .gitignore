@@ -1,0 +1,12 @@
+# Archivos de bases de datos de prueba
+
+data\sabana.duckdb
+data\sabana.duckdb.wal
+
+# Archivos de guardado automático DrawIO
+
+.$modelo_brechas_seguridad.drawio.dtmp
+
+
+# Certificado .pem global de nube
+global-bundle.pem
