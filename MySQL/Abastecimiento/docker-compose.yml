@@ -1,0 +1,31 @@
+# ============================================================
+# Examen 02 - Topicos Avanzados de Bases de Datos (UPB 202620)
+# Abastecimiento: MySQL 8.4 LTS en contenedor Docker
+# Autor: David  (completar nombre completo e ID SIGAA)
+# ============================================================
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: tadb_ex02_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: "RootBrechas2026*"
+      TZ: America/Bogota
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_0900_ai_ci
+      - --local-infile=1            # permite LOAD DATA LOCAL INFILE para cargar la sabana
+    ports:
+      - "3307:3306"                 # 3307 en Windows para no chocar con el contenedor del examen 01 (3306)
+    volumes:
+      - mysql_data:/var/lib/mysql   # persistencia de datos
+      - ./datos:/datos              # CSV de los lotes sabana_brechas_seguridad_lote_#.zip
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-pRootBrechas2026*"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+
+volumes:
+  mysql_data:
