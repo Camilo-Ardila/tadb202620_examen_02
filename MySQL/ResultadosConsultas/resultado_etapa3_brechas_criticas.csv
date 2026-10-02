@@ -1,0 +1,108 @@
+﻿"nombre_organizacion";"codigo_brecha";"fecha_deteccion_brecha";"nombre_vector_ataque";"usuarios_afectados"
+Reed Group;BR-00408;"2026-09-22";Insider Malicioso;58
+Gallegos-Wilkerson;BR-00133;"2026-03-14";Ataque de Fuerza Bruta;55
+Combs, Kent and Higgins;BR-00432;"2026-06-28";Phishing;54
+Walton LLC;BR-00682;"2026-09-22";Configuracion Erronea de Servidor;52
+Ward Ltd;BR-00715;"2026-04-19";Insider Malicioso;52
+Combs, Kent and Higgins;BR-00036;"2026-02-03";Credenciales Filtradas de Terceros;51
+Combs, Kent and Higgins;BR-00247;"2026-02-09";Phishing;51
+Cruz PLC;BR-00412;"2026-09-22";Configuracion Erronea de Servidor;50
+Cruz PLC;BR-00417;"2026-04-19";Phishing;50
+Lynn-Garcia;BR-00286;"2026-09-22";Phishing;49
+Hughes LLC;BR-00478;"2026-07-14";Phishing;49
+Baker-Stewart;BR-00005;"2025-10-10";Insider Malicioso;48
+Murphy, Ashley and Hutchinson;BR-00214;"2026-05-03";Inyeccion SQL;48
+Murphy-Mullins;BR-00332;"2026-09-22";Insider Malicioso;48
+Freeman-Martin;BR-00541;"2026-07-07";Configuracion Erronea de Servidor;48
+Brown and Sons;BR-00508;"2026-07-22";Ataque a Cadena de Suministro;47
+Cruz PLC;BR-00529;"2026-01-16";Ransomware;47
+Johnson Group;BR-00601;"2026-04-28";Phishing;47
+Wood-Clarke;BR-00605;"2026-07-29";Insider Malicioso;47
+Vargas PLC;BR-00052;"2026-09-22";Credenciales Filtradas de Terceros;46
+Gallegos-Wilkerson;BR-00145;"2026-05-06";Ataque de Fuerza Bruta;46
+Harris-Allen;BR-00178;"2026-08-10";Credenciales Filtradas de Terceros;46
+Pierce-Roberts;BR-00195;"2025-10-16";Credenciales Filtradas de Terceros;46
+Collins-Harris;BR-00293;"2026-01-06";Insider Malicioso;46
+Jacobs, Santiago and Phelps;BR-00407;"2026-09-22";Inyeccion SQL;46
+Weaver, Garcia and Hunter;BR-00555;"2026-04-10";Configuracion Erronea de Servidor;46
+Collins-Harris;BR-00676;"2025-12-17";Inyeccion SQL;46
+Mack, White and Mckinney;BR-00766;"2026-07-06";Credenciales Filtradas de Terceros;46
+Boone, Cole and Aguilar;BR-00788;"2026-08-02";Ataque a Cadena de Suministro;46
+Harris-Allen;BR-00166;"2026-07-11";Credenciales Filtradas de Terceros;45
+Brown and Sons;BR-00253;"2025-11-13";Insider Malicioso;45
+Martinez Ltd;BR-00635;"2025-11-02";Ataque de Fuerza Bruta;45
+Wood-Clarke;BR-00115;"2026-02-15";Malware;44
+Clark, Cox and Schmidt;BR-00119;"2026-09-22";Credenciales Filtradas de Terceros;44
+Farmer-Hurst;BR-00284;"2026-05-30";Phishing;44
+Conrad PLC;BR-00430;"2026-04-14";Configuracion Erronea de Servidor;44
+Johnson Group;BR-00440;"2026-01-21";Ransomware;44
+Stephens, Hayes and Holmes;BR-00545;"2025-11-21";Malware;44
+Collins-Harris;BR-00735;"2026-04-25";Phishing;44
+Mack, White and Mckinney;BR-00010;"2026-08-22";Ataque de Fuerza Bruta;43
+Mills, Li and Brooks;BR-00037;"2026-04-11";Ataque a Cadena de Suministro;43
+Cruz PLC;BR-00295;"2026-09-22";Ataque a Cadena de Suministro;43
+Boyd, Rodriguez and Barnett;BR-00411;"2025-11-27";Ataque de Fuerza Bruta;43
+Coleman Ltd;BR-00587;"2025-10-02";Ransomware;43
+Wood-Clarke;BR-00733;"2026-05-21";Configuracion Erronea de Servidor;43
+Cruz-Schultz;BR-00075;"2026-04-26";Insider Malicioso;42
+Walton LLC;BR-00085;"2025-10-28";Ransomware;42
+Little-Garcia;BR-00103;"2025-11-08";Ataque a Cadena de Suministro;42
+Gallegos-Wilkerson;BR-00415;"2025-10-25";Ataque a Cadena de Suministro;42
+Pierce-Roberts;BR-00439;"2026-06-14";Ataque a Cadena de Suministro;42
+Murphy-Mullins;BR-00499;"2026-05-08";Ransomware;42
+Conrad PLC;BR-00531;"2026-09-22";Credenciales Filtradas de Terceros;42
+Murphy, Ashley and Hutchinson;BR-00553;"2026-07-29";Explotacion de Vulnerabilidad Sin Parche;42
+Hunt, Brown and Hudson;BR-00712;"2026-07-28";Ransomware;42
+Adams-Fowler;BR-00073;"2026-02-21";Ransomware;41
+Kemp-Perez;BR-00077;"2026-09-17";Ataque de Fuerza Bruta;41
+Boone, Cole and Aguilar;BR-00228;"2026-02-09";Malware;41
+Murphy-Mullins;BR-00381;"2026-07-12";Phishing;41
+Hughes LLC;BR-00486;"2026-07-26";Malware;41
+Boyd, Rodriguez and Barnett;BR-00503;"2026-09-22";Phishing;41
+Cline, Hampton and Perez;BR-00702;"2026-03-18";Credenciales Filtradas de Terceros;41
+Collins-Harris;BR-00705;"2026-09-22";Ataque de Fuerza Bruta;41
+Perkins Inc;BR-00019;"2026-01-24";Credenciales Filtradas de Terceros;40
+Wood-Clarke;BR-00078;"2026-09-22";Inyeccion SQL;40
+Mills, Li and Brooks;BR-00083;"2026-01-06";Explotacion de Vulnerabilidad Sin Parche;40
+Wood-Clarke;BR-00084;"2026-09-22";Malware;40
+Coleman Ltd;BR-00108;"2026-01-29";Malware;40
+Wood-Clarke;BR-00158;"2025-10-13";Phishing;40
+Mccormick PLC;BR-00441;"2026-06-27";Insider Malicioso;40
+Adams LLC;BR-00513;"2026-09-14";Credenciales Filtradas de Terceros;40
+Shaw Group;BR-00598;"2026-08-08";Malware;40
+Bonilla-Reynolds;BR-00668;"2025-10-10";Ataque de Fuerza Bruta;40
+Glover, Dunn and Barker;BR-00706;"2026-09-22";Configuracion Erronea de Servidor;40
+Fox, Odom and Colon;BR-00015;"2026-03-10";Insider Malicioso;39
+Conrad PLC;BR-00018;"2026-09-22";Insider Malicioso;39
+Acosta, Williams and Mcmillan;BR-00047;"2026-01-06";Ataque de Fuerza Bruta;39
+Glover, Dunn and Barker;BR-00230;"2026-05-12";Insider Malicioso;39
+Combs, Kent and Higgins;BR-00463;"2026-04-21";Ataque de Fuerza Bruta;39
+Bell-Williams;BR-00620;"2026-08-31";Credenciales Filtradas de Terceros;39
+Wood-Clarke;BR-00449;"2026-09-22";Ataque a Cadena de Suministro;38
+Perkins Inc;BR-00498;"2026-04-05";Ataque a Cadena de Suministro;38
+Goodman PLC;BR-00540;"2026-08-01";Insider Malicioso;38
+Boyd, Rodriguez and Barnett;BR-00626;"2026-09-22";Ataque de Fuerza Bruta;38
+Cline, Hampton and Perez;BR-00695;"2025-10-12";Credenciales Filtradas de Terceros;38
+Mitchell, Reyes and Bender;BR-00793;"2026-05-14";Ransomware;38
+Gallegos-Wilkerson;BR-00298;"2026-03-08";Malware;37
+Brown, George and Hernandez;BR-00496;"2026-09-22";Phishing;37
+Collins-Harris;BR-00505;"2026-09-22";Explotacion de Vulnerabilidad Sin Parche;37
+Davis-Kelley;BR-00543;"2025-12-05";Explotacion de Vulnerabilidad Sin Parche;37
+Murphy, Ashley and Hutchinson;BR-00784;"2026-08-08";Ataque de Fuerza Bruta;37
+Perkins Inc;BR-00031;"2026-03-26";Explotacion de Vulnerabilidad Sin Parche;36
+Mason, Hanson and Graham;BR-00066;"2025-10-07";Ataque a Cadena de Suministro;36
+Pierce-Roberts;BR-00565;"2025-10-02";Malware;36
+Mills, Li and Brooks;BR-00585;"2026-09-22";Explotacion de Vulnerabilidad Sin Parche;36
+Chambers, Ward and Melendez;BR-00664;"2026-09-22";Insider Malicioso;36
+Kemp-Perez;BR-00194;"2026-05-12";Explotacion de Vulnerabilidad Sin Parche;35
+Shaw Group;BR-00549;"2026-08-29";Insider Malicioso;35
+Powell Ltd;BR-00742;"2026-08-23";Malware;35
+Vargas PLC;BR-00152;"2026-09-22";Malware;34
+Boyd, Rodriguez and Barnett;BR-00438;"2026-01-21";Explotacion de Vulnerabilidad Sin Parche;34
+Norton, Foster and Pacheco;BR-00749;"2026-09-22";Ransomware;34
+Adams-Fowler;BR-00213;"2025-10-21";Insider Malicioso;33
+Cruz PLC;BR-00080;"2026-09-22";Ataque de Fuerza Bruta;32
+Gallegos-Wilkerson;BR-00242;"2026-03-19";Explotacion de Vulnerabilidad Sin Parche;32
+Brown, George and Hernandez;BR-00368;"2025-10-16";Ataque a Cadena de Suministro;32
+Acosta, Williams and Mcmillan;BR-00617;"2026-09-22";Configuracion Erronea de Servidor;31
+Miller-Smith;BR-00163;"2025-10-21";Inyeccion SQL;27
