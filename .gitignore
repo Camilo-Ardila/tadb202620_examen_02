@@ -1,0 +1,22 @@
+# Respaldos y temporales de draw.io
+*.drawio.bkp
+*.drawio.dtmp
+.$*
+
+# Archivos temporales de Microsoft Office / LibreOffice
+~$*
+.~lock.*#
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores
+.idea/
+.vscode/
+.dbeaver/
+*.swp
+
+# Carpetas de datos locales sin versionar
+datos/
