@@ -5,6 +5,10 @@
 --
 -- Script 02: carga de datos (PostgreSQL 18.3 / Amazon RDS)
 --
+-- Integrantes:
+--           Camilo José Ardila Restrepo - ID 000543367
+--           David Berrío Martínez       - ID 000547257
+--
 -- Se ejecuta conectado como "brechas_camilo" (NO como postgres), a la
 -- base "brechas_seguridad". Usa el meta-comando \copy de psql (no el
 -- COPY de servidor) porque lee los CSV desde el cliente, lo cual

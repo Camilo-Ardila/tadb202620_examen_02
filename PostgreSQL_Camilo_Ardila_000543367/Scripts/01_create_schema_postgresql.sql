@@ -6,7 +6,8 @@
 --
 -- Script 01: implementación del modelo de datos (PostgreSQL)
 -- Motor   : PostgreSQL 18.3 (Amazon RDS)
--- Adaptado desde el script original en MySQL 8.4 de:
+-- Adaptado desde el script original en MySQL.
+-- Integrantes:
 --           Camilo José Ardila Restrepo - ID 000543367
 --           David Berrío Martínez       - ID 000547257
 --

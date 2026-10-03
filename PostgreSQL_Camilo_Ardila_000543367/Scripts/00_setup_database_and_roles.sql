@@ -5,7 +5,10 @@
 -- Dominio: Análisis de Brechas de Seguridad
 --
 -- Script 00: creación de la base de datos y los roles (PostgreSQL)
--- Motor   : PostgreSQL 17 (Amazon RDS)
+-- Motor   : PostgreSQL 18.3 (Amazon RDS)
+-- Integrantes:
+--           Camilo José Ardila Restrepo - ID 000543367
+--           David Berrío Martínez       - ID 000547257
 --
 -- IMPORTANTE: este script se ejecuta conectado a la base de
 -- mantenimiento "postgres" (o cualquier otra que NO sea
