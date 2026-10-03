@@ -10,7 +10,7 @@
 --           David Berrío Martínez       - ID 000547257
 -- Archivo : UTF-8, texto plano
 --
--- Requisito: haber ejecutado 01_implementacion_modelo_brechas_mysql.sql
+-- Requisito: haber ejecutado 01_implementacion_modelo_brechas_mysql_David_Berrio_000547257.sql
 --
 -- Contenido:
 --   0. Limpieza de cargas anteriores (permite re-ejecutar el script)
@@ -95,7 +95,7 @@ CREATE TABLE stg_sabana_brechas (
 -- 2. LECTURA DE LOS CSV
 -- LOAD DATA LOCAL INFILE: DBeaver lee cada archivo desde Windows y lo
 -- envía al servidor (requiere local_infile=1 en el servidor, definido en
--- el docker-compose.yml, y allowLoadLocalInfile=true en la conexión).
+-- el docker-compose_David_Berrio_000547257.yml, y allowLoadLocalInfile=true en la conexión).
 --   - Campos separados por coma; algunos nombres de organización vienen
 --     entre comillas porque contienen comas ("Cline, Hampton and Perez").
 --   - Fin de línea: se separa por \n y se elimina el \r final de la
