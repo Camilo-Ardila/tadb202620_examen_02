@@ -8,6 +8,10 @@
 -- desempeño (PostgreSQL 18.3 / Amazon RDS)
 -- Adaptado desde el script original en MySQL 8.4.
 --
+-- Integrantes:
+--           Camilo José Ardila Restrepo - ID 000543367
+--           David Berrío Martínez       - ID 000547257
+--
 -- Se ejecuta conectado como "brechas_camilo" a la base
 -- "brechas_seguridad". Requiere haber corrido los scripts 00, 01, 02 y
 -- 03.
