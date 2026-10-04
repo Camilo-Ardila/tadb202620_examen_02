@@ -31,5 +31,5 @@ desktop.ini
 # Carpetas de datos locales sin versionar
 datos/
 
-# Certificados privados
-PostgreSQL_Camilo_Ardila_000543367/Scripts_Consultas_Camilo_Ardila_000543367/global-bundle.pem
+# Certificados
+PostgreSQL_Camilo_Ardila_000543367\Scripts_Camilo_Ardila_000543367\global-bundle.pem
